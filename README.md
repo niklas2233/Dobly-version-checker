@@ -1,0 +1,3 @@
+This is a script that searches the specified or default folder if there is any MKV files that contains Dolby Vision Version 5 and then sends a massege to a Discord channel with Webhook.
+The reason for this script is to find MKV files that have Dolby Vision version 5 which only contian Dolby Vision and are only playable on Players that support Dolby Vision. While Version 7 and 8 also include normal HDR support.
+This script notify via discord that there is a file so you can change the file with something that have version 7 or 8 or dosnt have Dolby Vision, for example a Plex server where some users might use a device that dosnt have Dolby Vision support like Samsung tvs or phones.
